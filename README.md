@@ -1,2 +1,1 @@
-# byd.github.io
-BYD cars
+# FAQ по автомобилям BYD
